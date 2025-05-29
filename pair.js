@@ -9,7 +9,7 @@ const MESSAGE = process.env.MESSAGE || `
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-┃◈├•https://github.com/Tohidkhan6332/TOHID_MD
+┃◈├•https://github.com/majidi50/.-PRINCE-MD
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
 ┃◈├•https://github.com/majidi50/.-PRINCE-MD
