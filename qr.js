@@ -13,11 +13,11 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 
 const MESSAGE = process.env.MESSAGE ||  `
-╭━━━〔 *TOHID_MD SESSION* 〕━━━┈⊷
+╭━━━〔 *PRINCE_MD SESSION* 〕━━━┈⊷
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-┃◈├•https://github.com/Tohidkhan6332/TOHID_MD
+┃◈├•https://github.com/majidi50/.-PRINCE-MD
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
 ┃◈├•https://t.me/Tohid_Tech
@@ -32,10 +32,10 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•https://youtube.com/prince md_6332
 ┃◈┃
 ┃◈├•*ɢɪᴛʜᴜʙ* 🌟
-┃◈├•https://github.c
+┃◈├•https://github.com/majidi50/.-PRINCE-MD
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
-┃◈├•https://tohid-khan-web.vercel.app/
+┃◈├•https://github.com/majidi50/.-PRINCE-MD
 ┃◈┃
 ┃◈├•*PRINCE_MD--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
