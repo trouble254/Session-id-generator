@@ -9,27 +9,27 @@ const MESSAGE = process.env.MESSAGE || `
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-┃◈├•https://github.com/majidi50/.-PRINCE-MD
+┃◈├•https://github.com/spartaspiceSMR/T-R-O-U-B-L-E-XMD/tree/main
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://github.com/majidi50/.-PRINCE-MD
+┃◈├•https://github.com/spartaspiceSMR/T-R-O-U-B-L-E-XMD/tree/main
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-┃◈├•https://chat.whatsapp.com/IqRWSp7pXx8DIMtSgDICGu
+┃◈├•https://chat.whatsapp.com/H8C69FLe1PA01YLOvSC1dw
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-┃◈├•https://whatsapp.com/channel/0029VbAqgXx6mYPK6IVaY71V/153
+┃◈├•https://whatsapp.com/channel/0029VbAyOud7tkjGoK6knn2D
 ┃◈┃
 ┃◈┃*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-┃◈├•https://youtube.com/Tprince_6332
+┃◈├•https://youtu.be/C6nLZ_E0sZs?si=RqPbHY-mIEAXFz_u
 ┃◈┃
 ┃◈├•*ɢɪᴛʜᴜʙ* 🌟
-┃◈├•https://github.com/majidi50/.-PRINCE-MD
+┃◈├•https://github.com/spartaspiceSMR/T-R-O-U-B-L-E-XMD/tree/main
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
-┃◈├•https://prince-md-web.vercel.app/
+┃◈├•https://trouble-xmd-web.vercel.app/
 ┃◈┃
-┃◈├•*PRINCE_MD--WHATTSAPP-BOT* 🥀
+┃◈├•*T-R-O-U-B-L-E-XMD--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
 ┃◈╭─────────────●●►
 ┃◈├ ╔═╦═╗───╔══╗╔╗╔╗╔╗
@@ -45,7 +45,7 @@ Procedure(Ensure you have Github Account and Billed
 Heroku Account First.)
 Don't Forget To Give Star⭐ To My Repo
 ╭────────────────────┈⊷
-├━━━〔 *TOHID_MD SESSION* 〕━━━┈⊷
+├━━━〔 *T-R-O-U-B-L-E-XMD SESSION* 〕━━━┈⊷
 ╰────────────────────┈⊷
 `;
 
